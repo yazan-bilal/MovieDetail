@@ -1,4 +1,5 @@
 # Project description :
+![MOVIE_DETAIL](https://github.com/yazan-bilal/MovieDetail/assets/63741570/8834419e-f887-4cd6-a5a7-4d1332fd6061)
 ## Key Features : 
 - Browse Movies:
   -  Users can browse a curated list of movies, view detailed information about each film, and explore related content.
